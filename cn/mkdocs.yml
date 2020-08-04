@@ -84,6 +84,10 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+#extra js
+extra_javascript:
+  - assets/adjust-banner.js
+
 nav:
     - 首页: index.md
 
